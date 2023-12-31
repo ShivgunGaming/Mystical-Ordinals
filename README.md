@@ -1,4 +1,4 @@
-# ` Mystical Ordinals `
+# ` The Mystical Ordinals `
 
 Welcome to our exclusive Ordinals collection, The Mystical Ordinals! 
 
