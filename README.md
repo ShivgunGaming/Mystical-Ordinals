@@ -1,6 +1,6 @@
 # ` The Mystical Ordinals `
 
-![Uploading luffy-one-piece.gif…]()
+![luffy-one-piece](https://github.com/ShivgunGaming/Mystical-Ordinals/assets/102505925/a1f9f8ce-c794-49c4-8ebe-af5b50706411)
 
 Welcome to our exclusive Ordinals collection, The Mystical Ordinals! 
 
