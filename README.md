@@ -9,11 +9,19 @@ We use a unique style of art called Irezumi, which is a Japanese art style that 
 We aim to transend time by preserving the art of Irezumi on the Bitcoin Blockchain forever!
 
 
-# ` Information `
+# ` Discord `
 
-We currently have a discord server, where you can connect with founders, artists and community members!
+We currently have a discord server, where you can connect with founders, artists and community members: https://discord.gg/W8kj59XM
+
+# ` Website `
 
 We also have the MO website. The website is here to tell the story: https://mystical-ordinals.vercel.app/
+
+# ` Twitter `
+
+We also have a Twitter page where we are going to be making regular tweets: https://twitter.com/mysticalordinal
+
+# ` The MO Art `
 
 We then have the art itself! We use a unique style of art called Irezumi!
 
